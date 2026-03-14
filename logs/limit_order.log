@@ -1,0 +1,1 @@
+2026-03-14 11:23:43 | INFO | BinanceFuturesTestnetClient | DRY RUN order response | {'symbol': 'BTCUSDT', 'orderId': 1773467623523, 'clientOrderId': 'dryrun_1773467623523', 'status': 'NEW', 'type': 'LIMIT', 'side': 'SELL', 'executedQty': '0', 'avgPrice': '80000'}
